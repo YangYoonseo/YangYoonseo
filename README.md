@@ -29,7 +29,7 @@
 |---|---|---|---|---|
 |2024. 07 ~ 2024. 08 | ShowHoo |[Team](https://github.com/UMC-ShowHoo/ShowHoo-Web)|Frontend | <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"> |
 |2024. 10~ 2025. 01| Musinsa Observer | [Team](https://github.com/MusinsaObserver/frontend) |Frontend | <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"> |
-|2025. 01 ~ 2025. 02 |[ PresenTalk](https://presentalk.store) |[Team](https://github.com/HongikComputerClub/gift-front) | Frontend | <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"> |
+|2025. 01 ~ 2025. 02 | PresenTalk |[Team](https://github.com/HongikComputerClub/gift-front) | Frontend | <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"> |
 |2025. 01 ~ 2025. 02 | 메이트랑 |[Team](https://github.com/duckmelang/duckmelang-backend)|Backend| <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white">
 
 
